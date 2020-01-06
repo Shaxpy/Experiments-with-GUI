@@ -8,7 +8,7 @@ root.geometry("400x500")
 bt=Button(root,text="Button 1",width=15,height=2)  
 bt.pack()
 #grid()
-#place() -----pixels
+#place() ---pixels
 
 bt2=Button(root,text="Button 2",width=15,height=2)   
 bt2.pack()
